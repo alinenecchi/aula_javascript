@@ -1,0 +1,82 @@
+body {
+	background-image: url(file:///C:/Users/aline/aula_javascript/img/back01.jpg);
+	background-repeat: no-repeat;
+	color: #011133;
+	width: 100%;
+    height: 100%;
+}
+
+select{
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+    background: #f2f2f3;
+    padding-left: 100px
+    color:rgb(64,224,208,0.5);
+}
+
+option{
+	background-color: rgba(0,255,255);
+
+}
+
+
+.navbar {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,139,139,0.5);
+    border-radius: 10px;
+    padding: 2% 2% 2% 2%;
+    /*margin-left: 8%;*/
+    /*font-weight: bold;*/
+    font-size: 20px;
+    margin: 10px 10px 10px 10px;
+    color: #011133;
+}
+.quem-somos{
+	font-size: 30px;
+	background-color: rgba(102,205,170, 0.5);
+	margin:10px 10px 10px 10px;
+	border-radius: 10px;
+	color: #011133;
+
+
+}
+.parceiros{
+	background-color: rgba(0,139,139,0.5);
+	margin:10px 10px 10px 10px;
+	border-radius: 10px;
+	color: #011133;
+
+}
+.servicos {
+	background-color: rgba(102,205,170, 0.5);
+	margin:10px 10px 10px 10px;
+	border-radius: 10px;
+	color: #011133;
+}
+
+.fornecedores {
+	background-color: rgba(0,139,139,0.5);
+	margin:10px 10px 10px 10px;
+	border-radius: 10px;
+	color: #011133;
+}
+
+.bg-footer {
+	background-color: rgba(79,79,79);
+	margin:10px 10px 10px 10px;
+	border-radius: 10px;
+	color:rgb(248,248,255);
+}
+.java {
+	background-color: rgba(102,205,170, 0.5);
+	color: #011133;
+
+}
+
+.margin{
+	padding-bottom: 50px;
+	padding-top: 50px;
+
+}
